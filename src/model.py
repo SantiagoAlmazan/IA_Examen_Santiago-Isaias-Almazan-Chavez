@@ -43,7 +43,8 @@ model.fit(X_train, y_train)
 # Predicciones
 y_pred = model.predict(X_test)
 
-# Evaluación
+# Evaluación del modelo
+
 print("\nAccuracy:", accuracy_score(y_test, y_pred))
 print("Precision:", precision_score(y_test, y_pred))
 print("Recall:", recall_score(y_test, y_pred))
