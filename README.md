@@ -61,7 +61,8 @@ El modelo logra predecir correctamente aproximadamente 8 de cada 10 casos. La pr
 ## Instrucciones de ejecución
 1. Instalar dependencias:
 ```bash
-pip install -r requirements.txt
+pip install numpy pandas scikit-learn matplotlib seaborn
+
 
 
 ## ejecucion el programa
