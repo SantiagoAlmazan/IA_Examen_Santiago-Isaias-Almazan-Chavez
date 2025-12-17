@@ -64,7 +64,7 @@ El modelo logra predecir correctamente aproximadamente 8 de cada 10 casos. La pr
 pip install -r requirements.txt
 
 
-## ejecutar el programa
+## ejecucion el programa
 cd src
 python model.py
 
